@@ -8,6 +8,11 @@ body {
     margin: 0%;
     background: linear-gradient(to right bottom , rgb(56, 149, 255) , rgb(255, 145, 222));
 }
+.header {
+    color = white;
+    font-weight = bolder;
+    text-align = center;
+}
 .calculator-grid {
     display: grid;
     justify-content: center;
